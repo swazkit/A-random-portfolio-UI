@@ -1,0 +1,19 @@
+.featured {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 70vw;
+    padding: 100px 195px 50px;
+    text-align: center;
+    background-color: #e3e4e0;
+    gap: 20px;
+}
+
+.featured hr {
+    height: 1px;
+    width: 10rem;
+    background-color: #2E8B57;
+    border: 0;
+}

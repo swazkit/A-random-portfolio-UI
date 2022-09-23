@@ -1,0 +1,23 @@
+.features {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 75px 30px;
+}
+
+.feature {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    width: 330px;
+    gap: 20px;
+}
+
+i {
+    font-size: 30px;
+    border-radius: 50%;
+    border: solid 2px;
+    padding: 30px;
+}

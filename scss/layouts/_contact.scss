@@ -1,0 +1,20 @@
+.contact-page {
+    height: 19rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+
+    & hr {
+        width: 14rem;
+        height: 1px;
+        border: 0;
+        background-color: #2E8B57;
+    }
+
+    & p {
+        width: 950px;
+    }
+}
+
